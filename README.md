@@ -1,5 +1,5 @@
 # Kafka-Subscriber
-## Steps to run the project
+## Steps to run the project:
   1. Start Zookeeper server
   2. Start Kafka server
   3. Run this project as well as [Publisher Project](https://github.com/avinash813/Kafka-Publisher) on different ports and pass some data to any of the Publisher API's and see the console of Subscriber the data will get printed.
