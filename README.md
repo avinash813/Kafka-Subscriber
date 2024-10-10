@@ -1,4 +1,4 @@
-# Kafka-Publisher
+# Kafka-Subscriber
 ## Steps to run the project
   1. Start Zookeeper server
   2. Start Kafka server
